@@ -1,0 +1,6 @@
+{
+  "name": "POS Toko Material",
+  "description": "Sistem Kasir & Manajemen Toko Bangunan Material Terintegrasi dengan Konversi Satuan, Stok Opname, Piutang & Laporan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
